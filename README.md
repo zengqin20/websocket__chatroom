@@ -10,5 +10,5 @@ npm install
 npm run start
 
 # 运行服务端server/index.js
-node index.js
+node server/index.js 
 ```
